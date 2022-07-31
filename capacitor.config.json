@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AICTE",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
